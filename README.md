@@ -33,7 +33,7 @@ All of these can be individually accessed in the Demos folder
 The app should be able to be accessed via the hugging face link. No other steps should be necessary. 
 
 To run the app locally, clone the repository from the Git Hub website, and run python app.py. Make sure all dependencies in requirements.txt are installed. NOTE THAT GRADIO 6.0.1 DOES NOT
-WORK, AND WILL BREAK THE CODE. More details on this below. 
+WORK, AND WILL BREAK THE CODE.
 
 ## Hugging Face Link
 https://huggingface.co/spaces/waffleshd/gradio-bubble-sorter
